@@ -4,7 +4,7 @@
 
 Currently using C#, JS. Making a React app with a C# back-end to initially make a tool for myself for making a custom config file for a software I use.
 
-[![Build status](https://dev.azure.com/RogueViolation/ToolbeltUtilities/_apis/build/status/ToolbeltUtilities-ASP.NET%20Core?branchName=master)](https://dev.azure.com/RogueViolation/ToolbeltUtilities/_apis/build/status/ToolbeltUtilities-ASP.NET%20Core?branchName=master)
+[[Build status](https://dev.azure.com/RogueViolation/ToolbeltUtilities/_apis/build/status/ToolbeltUtilities-ASP.NET%20Core?branchName=master)](https://dev.azure.com/RogueViolation/ToolbeltUtilities/_apis/build/status/ToolbeltUtilities-ASP.NET%20Core?branchName=master)
 
 
 
