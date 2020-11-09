@@ -6,6 +6,12 @@ Currently using C#, JS. Making a React app with a C# back-end to initially make 
 
 [![Build status](https://dev.azure.com/RogueViolation/ToolbeltUtilities/_apis/build/status/ToolbeltUtilities-ASP.NET%20Core)](https://dev.azure.com/RogueViolation/ToolbeltUtilities/_build/latest?definitionId=4)
 
+Always open to new possibilities be it something new or already experienced.
+
+I laso have some experience working with ASP.NET Core, API based communication, Azure DevOps, Git (duh), OpenShift.
+
+IMO I sohuld really start doing some DB and start using Docker, but that is obviously for the future to come 😄
+
 
 
 <!--
