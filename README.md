@@ -8,7 +8,7 @@ Currently using C#, JS. Making a React app with a C# back-end to initially make 
 
 Always open to new possibilities be it something new or already experienced.
 
-I laso have some experience working with ASP.NET Core, API based communication, Azure DevOps, Git (duh), OpenShift.
+I laso have some experience working with ASP.NET Core, API based communication, Azure DevOps, Git (duh), OpenShift (learning).
 
 IMO I sohuld really start doing some DB and start using Docker, but that is obviously for the future to come 😄
 
