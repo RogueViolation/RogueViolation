@@ -14,7 +14,7 @@ I’m currently learning OpenShift :)
 
 IMO I sohuld really start doing some DB and start using Docker, but that is obviously for the future to come 😄
 
-
+<--
 **RogueViolation/RogueViolation** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
