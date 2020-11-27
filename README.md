@@ -14,11 +14,7 @@ I’m currently learning OpenShift :)
 
 IMO I sohuld really start doing some DB and start using Docker, but that is obviously for the future to come 😄
 
-### Spotify Playing 🎧
 
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="Ignas Spotify Playing" width="350" />](https://open.spotify.com/user/kappagnome?si=n5PF6XL9TUqQ8aVJVol6dQ)
-
-<!--
 **RogueViolation/RogueViolation** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
