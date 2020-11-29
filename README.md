@@ -12,7 +12,7 @@ I laso have some experience working with ASP.NET Core, API based communication, 
 
 I’m currently learning OpenShift :)
 
-IMO I sohuld really start doing some DB and start using Docker, but that is obviously for the future to come 😄
+IMO I should really start doing some DB and start using Docker, but that is obviously for the future to come 😄
 
 <!--
 **RogueViolation/RogueViolation** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
