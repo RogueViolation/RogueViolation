@@ -10,7 +10,7 @@ Always open to new possibilities be it something new or already experienced.
 
 I also have some experience working with ASP.NET Core, API based communication, Azure DevOps, Git (duh), OpenShift.
 
-I’m currently learning OpenShift :)
+I’m currently learning OpenShift
 
 IMO I should really start doing some DB and start using Docker, but that is obviously for the future to come 😄
 
