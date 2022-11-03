@@ -8,23 +8,17 @@ Currently using C#, JS. Making a React app with a C# back-end to initially make 
 
 Always open to new possibilities be it something new or already experienced.
 
-I also have some experience working with ASP.NET Core, API based communication, Azure DevOps, Git (duh), OpenShift.
+I also have experience working with ASP.NET Core, .NET Framework+Core, API based communication, Azure DevOps, Git (duh), OpenShift.
 
-I’m currently learning OpenShift
+Some experience with Windows Server Platform, Docker.
 
-IMO I should really start doing some DB and start using Docker, but that is obviously for the future to come 😄
+Development tools
+* VSCode
+* VS2019
+* VS2022
+* Git Extensions
+* NP++
+* Azure
+* json2csharp
 
-<!--
-**RogueViolation/RogueViolation** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Usually making smaller tools to make my daily stuff easier.
