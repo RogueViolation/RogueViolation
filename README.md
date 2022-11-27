@@ -11,7 +11,6 @@ Currently using C#, JS. Making a React app with a C# back-end to initially make 
 ![](https://komarev.com/ghpvc/?username=RogueViolation&color=grey&style=flat)
 
 
-
 Always open to new possibilities be it something new or already experienced.
 
 I also have experience working with ASP.NET Core, .NET Framework+Core, API based communication, Azure DevOps, Git (duh), OpenShift.
