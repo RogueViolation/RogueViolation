@@ -6,6 +6,12 @@ Currently using C#, JS. Making a React app with a C# back-end to initially make 
 
 [![Build status](https://dev.azure.com/RogueViolation/ToolbeltUtilities/_apis/build/status/ToolbeltUtilities-ASP.NET%20Core)](https://dev.azure.com/RogueViolation/ToolbeltUtilities/_build/latest?definitionId=4)
 
+![](https://komarev.com/ghpvc/?username=RogueViolation&color=grey&style=flat)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RogueViolation&layout=compact)](https://github.com/RogueViolation/github-readme-stats)
+
+
+
 Always open to new possibilities be it something new or already experienced.
 
 I also have experience working with ASP.NET Core, .NET Framework+Core, API based communication, Azure DevOps, Git (duh), OpenShift.
