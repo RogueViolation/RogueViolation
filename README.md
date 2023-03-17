@@ -13,9 +13,9 @@ Currently using C#, JS. Making a React app with a C# back-end to initially make 
 
 Always open to new possibilities be it something new or already experienced.
 
-I also have experience working with ASP.NET Core, .NET Framework+Core, API based communication, Azure DevOps, Git (duh), OpenShift.
+I also have experience working with ASP.NET Core, .NET Framework+Core, PL/SQL, API based communication, Azure DevOps, Git (duh), OpenShift.
 
-Some experience with Windows Server Platform, Docker.
+Some experience with Windows Server Platform, Docker, Google Cloud Platform.
 
 Development tools
 * VSCode
@@ -25,5 +25,7 @@ Development tools
 * NP++
 * Azure
 * json2csharp
+* Oracle SQL Developer
+* MSSQL Server Management Studio
 
 Usually making smaller tools to make my daily stuff easier.
