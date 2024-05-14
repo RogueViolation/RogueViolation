@@ -1,7 +1,5 @@
 # Ignelio / RogueViolation
 
-#### We're back in black **BABY**!
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RogueViolation&layout=compact&hide=VHDL)](https://github.com/RogueViolation/github-readme-stats)
 
 Currently using C#, JS. Making a React app with a C# back-end to initially make a tool for myself for making a custom config file for a software I use.
